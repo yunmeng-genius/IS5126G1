@@ -79,26 +79,3 @@ Interest debt: The distribution presents a similar pattern, with most of the dat
 Net debt: The distribution of this factor shows some negative values, which may indicate that some companies hold cash and cash equivalents that exceed their debt.
 
 Equity: Most of the values are low, but there are also some high-value cases. ▌
-
-
-The image displays a series of histograms and boxplots corresponding to financial data sets: Total fixed assets, Interest debt, Net debt, Operating capital, and Cash and cash equivalent net increase.
-
-**Histograms:**
-
-1. **Total fixed assets:** The histogram is skewed to the right, with most data points concentrated near zero, suggesting most values in the data set are low with a few large outliers.
-2. **Interest debt:** This also shows a right-skewed distribution, similar to total fixed assets, indicating that most companies have low interest debt with some exceptions.
-3. **Net debt:** The distribution is right-skewed, meaning that most observations are clustered around lower values with few high-value outliers.
-4. **Operating capital:** This histogram appears to be more centrally distributed but still shows a slight right-skewness, with most data points close to zero.
-5. **Cash and cash equivalent net increase:** The histogram is quite skewed, with a long tail to the right, indicating that while most changes in cash and cash equivalents are small, there are cases with significant increases.
-
-**Boxplots:**
-
-1. **Total fixed assets:** The boxplot indicates a median near zero with a large number of outliers, which are represented by points above the upper whisker.
-2. **Interest debt:** Similar to total fixed assets, the median is close to zero with many high-value outliers.
-3. **Net debt:** The boxplot shows a median close to zero, with numerous outliers indicating significant variation in net debt among the sampled entities.
-4. **Operating capital:** The median operating capital is around zero, with outliers on both sides, suggesting that while many entities have a balance around zero, there are significant deviations in both directions.
-5. **Cash and cash equivalent net increase:** The median is slightly above zero, with many outliers above the upper whisker, showing that there are entities with significant increases in cash and cash equivalents.
-
-**Summary and Conclusion:**
-
-The provided financial metrics are highly right-skewed, indicating that a majority of the entities have low values for these financial items, with a small number of entities having very high values. This pattern is commonly seen in financial data where a few entities hold a majority of wealth or debt. The presence of outliers in all the boxplots indicates that there is considerable variability in each financial metric across the entities. The data suggest a financial landscape where most entities maintain conservative levels on these metrics, while a few have much larger scales of operation or debt.
